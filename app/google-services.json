@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394151019235",
+    "firebase_url": "https://bcmc-17d4a.firebaseio.com",
+    "project_id": "bcmc-17d4a",
+    "storage_bucket": "bcmc-17d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394151019235:android:ade483c2bacdeaf9197bd6",
+        "android_client_info": {
+          "package_name": "com.example.abhaa.mkbbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394151019235-o2h4nkgsjlb54qoqjfq7ne5rslh8du07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpUh3SeGayGx7zJIzwkK77rLvt3p8kTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394151019235-o2h4nkgsjlb54qoqjfq7ne5rslh8du07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
